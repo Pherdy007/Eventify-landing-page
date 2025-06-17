@@ -100,7 +100,7 @@ const Testimonials = () => {
             >
               {/* Quote Icon */}
               <div className="absolute top-8 left-8 w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center">
-                <QuoteIcon className="w-8 h-8 text-primary-600" />
+                <ChatBubbleLeftRightIcon className="w-8 h-8 text-primary-600" />
               </div>
 
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
